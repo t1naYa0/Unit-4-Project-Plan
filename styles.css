@@ -1,0 +1,66 @@
+.sections {
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    margin: 2px;
+    padding: 10px;
+}
+
+.whole {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.mainpicture {
+    border: 1px solid black;
+    padding: 50px;
+    margin: 2px;
+    width: 70%;
+}
+
+.brightness {
+    background-color: white;
+    display: inline-block;
+
+}
+
+.brightness img:hover {
+    opacity: .5;
+}
+
+.sidepicture {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 2px;
+    width: 30%;
+}
+
+.picture2 {
+    width: 250px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.picture3 {
+    width: 250px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.picture4 {
+    width: 265px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.picture5 {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.picture6 {
+    width: 300px;
+    margin: 20px;
+    padding: 20px;
+}
